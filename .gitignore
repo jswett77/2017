@@ -1,0 +1,7 @@
+# IDEA config files
+*/.idea/
+.idea/
+*/.cache/
+.cache/
+__pycache__/
+*.pyc
